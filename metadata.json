@@ -1,0 +1,6 @@
+{
+  "name": "PaperPilot: Research Paper Study Kit",
+  "description": "Transforms dense academic research papers into plain-language concepts, level-adaptive practice exam questions, interactive flashcards, and verified metadata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
